@@ -2,3 +2,4 @@ spacy-streamlit
 en-core-web-sm
 streamlit
 spacy
+python==24.0
