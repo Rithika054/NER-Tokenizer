@@ -18,4 +18,4 @@ elif choice=='Tokenizer':
     rawtext=st.text_area("NER","ENTER TEXT")
     docs=nlp(rawtext)
     if st.button('ENTITY'):
-        spt.visualize_tokensstra(docs)
+        spt.visualize_tokens(docs)
